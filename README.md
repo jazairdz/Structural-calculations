@@ -1,2 +1,2 @@
-# hello-world
-This repository interests about the all calculation codes
+# My scripts
+This repository contains my personal scripts related to different codes
